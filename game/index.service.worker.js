@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1762028833|10469267234';
+const CACHE_VERSION = '1762031492|13128269709';
 /** @type {string} */
 const CACHE_PREFIX = 'Top Down Rpg-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
